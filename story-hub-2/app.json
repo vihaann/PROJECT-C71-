@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "story-hub-2",
+    "slug": "snack-1fe052fc-0b2d-4cf9-8eff-ace8d0e48c4b",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "We all love stories… All kinds of stories - science fiction, fiction, non fiction as well as bedtime stories!\nSo, this is an app where all story lovers have access to read the stories and the writers have access to write the stories."
+  }
+}
